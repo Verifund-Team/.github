@@ -5,7 +5,7 @@ Welcome to the Verifund GitHub organization! Verifund is dedicated to revolution
 ## Repositories
 
 - **[verifund-client](https://github.com/Verifund-Team/verifund-client):** This is the frontend web application for managing and participating in crowdfunding campaigns.
-- **[verifund-smart-contract]([./verifund-smart-contract](https://github.com/Verifund-Team/verifund-smart-contract)):** This repository holds the smart contracts that power the Verifund platform, ensuring secure transactions and verification systems using Soulbound Tokens.
+- **[verifund-smart-contract](https://github.com/Verifund-Team/verifund-smart-contract):** This repository holds the smart contracts that power the Verifund platform, ensuring secure transactions and verification systems using Soulbound Tokens.
 
 ## Get Involved
 
